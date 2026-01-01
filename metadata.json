@@ -1,0 +1,7 @@
+{
+  "name": "灵感画界 - AI 智能语音设计平台",
+  "description": "一个支持全中文语音交互、智能图像编辑与海报排版的创新 AI 设计平台。利用 Gemini Live API 实现实时语音对话，并通过 Gemini 2.5 Flash Image 进行精准的图像生成与重塑。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
